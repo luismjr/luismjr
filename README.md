@@ -24,7 +24,7 @@ I am a third-year **Computer Science** student at the **University of Alberta**,
 📌 **Designed a data structure** to **query bin labels efficiently**, handling up to **1 million operations**.  
 
 ### [**AI-Study-Helper**](https://github.com/luismjr/AI-Study-Helper.git) | *Swift*  
-📌 An **iOS application** designed to enhance studying by enabling users to **create, manage, and generate flashcards** with the help of **AI**.  
+📌 An **iOS application** designed to enhance studying by enabling users to **create and generate flashcards** with the help of **AI**.  
 
 ---
 
