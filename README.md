@@ -1,10 +1,10 @@
 # 👋 About Me  
-I am a third-year **Computer Science** student at the **University of Alberta**, passionate about exploring and building innovative solutions using **software, data, and AI**!  
+I am a fourth-year **Computer Science** student at the **University of Alberta**, passionate about exploring and building innovative solutions using **software, data, and AI**!  
 
 ---
 
 ## 🚀 What I'm Up To  
-- 📱 **Building** an **Android application** to help users **track, share, and analyze** their moods.  
+- 📱 **Building** an Machine Learning Applications like a Soccer Match predictor.  
 - 🎓 **Learning** more about **Software Engineering and AI** at the **University of Alberta**.  
 
 ---
