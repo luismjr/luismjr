@@ -11,6 +11,9 @@ I am a third-year **Computer Science** student at the **University of Alberta**,
 
 ## 🧠 Notable Projects  
 
+### [**Soccer Match Predictor**](https://github.com/luismjr/Soccer-Stats-Predictor.git) | *Python | Flask | scikit-learn | pandas* 
+📌 Full stack web app that predicts Premier League match outcomes (Home/Draw/Away) using a **RandomForest** and rolling **form features**
+
 ### [**Z**](https://github.com/cmput301-w25/project-z.git) | *Java*  
 📌 A **social media Android application** to help users **track, share, and analyze their moods**.  
 
