@@ -4,7 +4,7 @@ I am a fourth-year **Computer Science** student at the **University of Alberta**
 ---
 
 ## 🚀 What I'm Up To  
-- 📱 **Building** an Machine Learning Applications like a Soccer Match predictor.  
+- 📱 **Building/Imporving** Machine Learning Applications like my current Soccer Match predictor.  
 - 🎓 **Learning** more about **Software Engineering and AI** at the **University of Alberta**.  
 
 ---
