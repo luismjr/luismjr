@@ -11,7 +11,7 @@ I am a fourth-year **Computer Science** student at the **University of Alberta**
 
 ## 🧠 Notable Projects  
 
-### [**Knead A Job**](https://github.com/Rik-Mukh/KneadyHackathon.git)) | *Python | React | scikit-learn | JavaScript* 
+### [**Knead A Job**](https://github.com/Rik-Mukh/KneadyHackathon.git) | *Python | React | scikit-learn | JavaScript* 
 📌 Developed a full-stack web platform that helps job seekers track applications, and analyze compatibility with job postings using AI
 
 ### [**Soccer Match Predictor**](https://github.com/luismjr/Soccer-Stats-Predictor.git) | *Python | Flask | scikit-learn | pandas* 
