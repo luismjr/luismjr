@@ -11,23 +11,20 @@ I am a fourth-year **Computer Science** student at the **University of Alberta**
 
 ## 🧠 Notable Projects  
 
+### [**Knead A Job**](https://github.com/Rik-Mukh/KneadyHackathon.git)) | *Python | React | scikit-learn | JavaScript* 
+📌 Developed a full-stack web platform that helps job seekers track applications, and analyze compatibility with job postings using AI
+
 ### [**Soccer Match Predictor**](https://github.com/luismjr/Soccer-Stats-Predictor.git) | *Python | Flask | scikit-learn | pandas* 
 📌 Full stack web app that predicts Premier League match outcomes (Home/Draw/Away) using a **RandomForest** and rolling **form features**
 
 ### [**Distributed Social Network**](https://github.com/luismjr/Distributed-Social-Network.git) | *Python | SQLite | Django*
-📌 Full stack web app that predicts Premier League match outcomes (Home/Draw/Away) using a **RandomForest** and rolling **form features**
+📌 Built a federated social platform in with secure RESTful APIs, cross-server networking, and robust authentication/authorization.
 
 ### [**Z**](https://github.com/cmput301-w25/project-z.git) | *Java*  
-📌 A **social media Android application** to help users **track, share, and analyze their moods**.  
-
-### [**Ikea Manager**](https://github.com/cmput201-w24/lab-12-cmput201-luismjr.git) | *C*  
-📌 **Reconstructed** an **Ikea product database** by decoding **16-bit product IDs** using **bitwise operations**.  
+📌 A **social media Android application** using OOP to help users **track, share, and analyze their moods**.  
 
 ### [**Twitter 2.0**](https://github.com/CMPUT291-F24/assignment-3-z.git) & [**Twitter 3.0**](https://github.com/CMPUT291-F24/assignment-4-z2.git) | *Python | SQL | NoSQL*  
 📌 **Developed Twitter clones** where users can **tweet, retweet, search for users, and follow others**.  
-
-### [**AI-Study-Helper**](https://github.com/luismjr/AI-Study-Helper.git) | *Swift*  
-📌 An **iOS application** designed to enhance studying by enabling users to **create and generate flashcards** with the help of **AI**.  
 
 ---
 
